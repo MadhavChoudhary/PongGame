@@ -1,4 +1,4 @@
-# Classic PongGame with GUI 
+# Classic Pong Game with GUI 
 
 # REQUIREMENTS
 
